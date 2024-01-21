@@ -1,16 +1,10 @@
 ### Hi, I'm Viktor Borisov
 
-- Over 25 years of experience in database design, application software design, development.
+- With over 25 years of experience in database and application software design and development, I possess a robust foundation in analysis, object-oriented design, and the implementation of both business and web applications. My expertise extends across all phases of the IT project lifecycle, backed by hands-on experience.
 
-- Solid background in analysis, object-oriented design and implementation of business applications, web-applications.
+- I am proficient in a variety of programming languages, including C, C++, Assembly, PHP, JavaScript, VBScript, C#, and Java. My skill set includes performance tuning and troubleshooting, primarily focused on database management systems such as Oracle, SQL Server, PostgreSQL, MySQL, and MongoDB.
 
-- Hands-on experience in all phases of the IT project lifecycle.
-
-- Practical experience in C, C++, Assembler, PHP, JavaScript, VBScript, C#, Java.
-
-- Performance tuning and troubleshooting, just using: Oracle, SQL Server, Postgres, MySQL , Mongo.
-
-- Extensive experience and knowledge of the Software Engineering: jQuery, Angular, React, Vue, Spring Boot.
+- Furthermore, I have extensive experience in software engineering principles and frameworks. I am well-versed in utilizing jQuery, Angular, React, Vue.js, .Net, and Spring Boot to deliver cutting-edge software solutions.
 
 <!--
 **Victor-Borisov/Victor-Borisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
