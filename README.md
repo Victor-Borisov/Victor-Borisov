@@ -2,9 +2,9 @@
 
 - With over 25 years of experience in database and application software design and development, I possess a robust foundation in analysis, object-oriented design, and the implementation of both business and web applications. My expertise extends across all phases of the IT project lifecycle, backed by hands-on experience.
 
-- I am proficient in a variety of programming languages, including C, C++, Assembly, PHP, JavaScript, VBScript, C#, and Java. My skill set includes performance tuning and troubleshooting, primarily focused on database management systems such as Oracle, SQL Server, PostgreSQL, MySQL, and MongoDB.
+- I am proficient in a variety of programming languages, including C, C++, Assembly, PHP, JavaScript, TypeScript, VBScript, C#, and Java. My skill set includes performance tuning and troubleshooting, primarily focused on database management systems such as Oracle, SQL Server, PostgreSQL, MySQL, and MongoDB.
 
-- Furthermore, I have extensive experience in software engineering principles and frameworks. I am well-versed in utilizing jQuery, Angular, React, Vue.js, .Net, and Spring Boot to deliver cutting-edge software solutions.
+- Furthermore, I have extensive experience in software engineering principles and frameworks. I am well-versed in utilizing jQuery, Angular, React, Vue, Node.js, .Net, and Spring Boot to deliver cutting-edge software solutions.
 
 <!--
 **Victor-Borisov/Victor-Borisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
